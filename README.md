@@ -90,4 +90,4 @@ print("Result:", result)
 
 
 ### RESULT:
-    This approach demonstrates the integration of a simple mathematical calculation (volume of a cylinder) into a chat-based system. The system can detect queries related to the volume of a cylinder and automatically invoke the function to calculate it. By leveraging an LLM’s function-calling capability, dynamic and natural interactions can be made, including processing more complex queries and extracting numerical values from user input.
+This approach demonstrates the integration of a simple mathematical calculation (volume of a cylinder) into a chat-based system. The system can detect queries related to the volume of a cylinder and automatically invoke the function to calculate it. By leveraging an LLM’s function-calling capability, dynamic and natural interactions can be made, including processing more complex queries and extracting numerical values from user input.
